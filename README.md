@@ -1,4 +1,4 @@
 glowing-octo-shame
 ==================
 
-HydroCode
+This is a set of scripts for plotting my stream functions. 
